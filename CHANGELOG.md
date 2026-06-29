@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/muigui/eslint-config/compare/eslint-config-v1.0.1...eslint-config-v1.0.2) (2026-06-29)
+
+
+### Bug Fixes
+
+* small fix to trigger another build and try to get `npm publish` to work ([#5](https://github.com/muigui/eslint-config/issues/5)) ([faffb81](https://github.com/muigui/eslint-config/commit/faffb8174a8d9b41dc6f41102c5d6a27093f7e80))
+
 ## [1.0.1](https://github.com/muigui/eslint-config/compare/eslint-config-v1.0.0...eslint-config-v1.0.1) (2026-06-29)
 
 
