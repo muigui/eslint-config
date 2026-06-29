@@ -1,0 +1,11 @@
+# Changelog
+
+## 1.0.0 (2026-06-29)
+
+
+### Features
+
+* add initial GitHub Actions workflow for: `release` ([3ce3240](https://github.com/muigui/eslint-config/commit/3ce3240b8f731bbca5c9f06656e244358f756c27))
+* add initial implementation of lint and code style configuration ([45098f9](https://github.com/muigui/eslint-config/commit/45098f9152841ee8ce4b255c1e57cdf89f43492e))
+* add initial implementation of package and meta files ([61734aa](https://github.com/muigui/eslint-config/commit/61734aa8d5a1da23134c9c978a39a5e0ea82bf85))
+* first commit ([049b341](https://github.com/muigui/eslint-config/commit/049b341d4f8bf6a3b20db01edb8308590f775264))
